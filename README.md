@@ -9,7 +9,7 @@ I code locally using PyCharm and push these notebooks here. JetBrains kindly pro
 
 #### Mentioned stuff: 
 - NLTK with Python book https://www.nltk.org/book/
-- Jupiter Notebooks https://jupyter.org/
+- Jupiter Notebooks https://jupyter-notebook.readthedocs.io/en/stable/
 - JetBrains license for students https://www.jetbrains.com/community/education/#students
 - GitHub Pro for students https://education.github.com/pack
 
