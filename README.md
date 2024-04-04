@@ -12,6 +12,8 @@ I code locally using PyCharm and push these notebooks here. JetBrains kindly pro
 - Jupiter Notebooks https://jupyter-notebook.readthedocs.io/en/stable/
 - JetBrains license for students https://www.jetbrains.com/community/education/#students
 - GitHub Pro for students https://education.github.com/pack
+
+#### Useful: 
 - Regex cheat sheet https://www.datacamp.com/cheat-sheet/regular-expresso
 
 Hope I didn't share anything I didn't want to share in the notebooks. In case of any questions, feel free to contact me somehow.  
